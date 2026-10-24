@@ -33,6 +33,9 @@ each with a default they can accept with "yes". Save the answers in memory and r
 - Hours per week they can give, and which semester they want to start
 - Any experience or classes that relate (a class project counts)
 
+Ask at most three questions in total. After that, go ahead with sensible defaults and say in one
+line what you assumed.
+
 ### Find matches
 1. Search at the student's own school first. Use the tips in
    `references/finding-research-pages.md` to find the school's faculty directories, lab pages
@@ -46,7 +49,8 @@ each with a default they can accept with "yes". Save the answers in memory and r
    professor's own page links a profile, you may pass on that link.
 
 ### Send the matches
-Send up to three matches, one message per professor, in this shape:
+Send each match as its own separate text message, never one long message. Every match must
+include its link on its own line. Use this shape:
 
 ```text
 Dr. Jane Lee, Computer Science (robotics)
@@ -95,7 +99,8 @@ When the student texts an update (a result, a problem, a decision, a question, s
 read), save it under the project with today's date in the student's time zone. Keep their own
 wording, lightly tidied. Sort it into one of: **done, stuck, next, question for my professor**.
 Reply with one line, such as "Logged for the sensor project: trial 3 results off, sensor dropping
-out." If the student sends a voice note, transcribe it first. If they send a photo of notes or a
+out." After saving, send only the confirmation line. Offer help in one short sentence ("Want to talk
+it through?") but don't give advice unless the student asks. If the student sends a voice note, transcribe it first. If they send a photo of notes or a
 whiteboard, read what it shows and save that. Never invent results, numbers, or dates.
 
 ### Recall
@@ -108,7 +113,7 @@ When the student asks to prepare for a meeting, or says one is coming:
 1. Read the log entries since the last meeting for that project.
 2. Reply in three short parts: **what I did**, **what's stuck**, **what's next**, plus any
    questions for the professor that were logged.
-3. Offer a reminder before the meeting, as described under Reminders.
+3. Set the meeting reminders as described under Reminders, and say which ones you set.
 
 After the student's first meeting prep, offer a weekly one: "Want a prep summary every Monday at
 6 pm?" Create it only after they agree, at the day and time they choose. Word it so it works days
@@ -121,8 +126,10 @@ A reminder only texts the student, so set one-off reminders without asking first
 time. Pick a daytime hour when the student is not in class, tell them in the confirmation, and
 move or cancel it right away if they ask. Use the student's time zone.
 
-- **A meeting or other dated event:** remind the evening before and an hour before. If it is
-  tomorrow, skip the evening-before reminder.
+- **A meeting or other dated event:** if the student gave the time, set both reminders: the
+  evening before and an hour before. If they didn't, set the evening-before reminder right away,
+  then ask for the meeting time (not when to remind them) and add the one an hour before. If the
+  meeting is tomorrow, skip the evening-before reminder.
 - **Follow-up after sending an email:** nudge about a week later. Drop it once the student says
   they got a reply or no longer care.
 - **A deadline the student mentions:** remind two days before and the morning of.
